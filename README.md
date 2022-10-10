@@ -1,5 +1,5 @@
  # Desafio de projeto sobre Git/GitHub da Dio
- desafio de projeto sobre git/Github
+ desafio de projeto sobre Git/Github
  ## Links Úteis
 >[ Meu Linkedin](https://www.linkedin.com/in/oliveirags/)
 
